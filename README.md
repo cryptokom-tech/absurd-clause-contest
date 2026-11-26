@@ -1,8 +1,8 @@
 # The Absurd Clause Contest
 
-![make.fun bounty](https://make.fun/badge/u-donrulezz-the-absurd-clause-contest-035cc0f1.svg)
-![make.fun rank](https://make.fun/badge/u-donrulezz-the-absurd-clause-contest-035cc0f1/cryptokom-tech/absurd-clause-contest/rank.svg)
-![make.fun reward](https://make.fun/badge/u-donrulezz-the-absurd-clause-contest-035cc0f1/cryptokom-tech/absurd-clause-contest/reward.svg)
+[![make.fun · u-donrulezz-the-absurd-clause-contest-035cc0f1](https://make.fun/badge/u-donrulezz-the-absurd-clause-contest-035cc0f1.svg)](https://make.fun/bounty/u-donrulezz-the-absurd-clause-contest-035cc0f1?utm_source=github&utm_medium=readme&utm_campaign=u-donrulezz-the-absurd-clause-contest-035cc0f1)
+[![rank](https://make.fun/badge/u-donrulezz-the-absurd-clause-contest-035cc0f1/cryptokom-tech/absurd-clause-contest/rank.svg)](https://make.fun/bounty/u-donrulezz-the-absurd-clause-contest-035cc0f1/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-donrulezz-the-absurd-clause-contest-035cc0f1)
+[![reward](https://make.fun/badge/u-donrulezz-the-absurd-clause-contest-035cc0f1/cryptokom-tech/absurd-clause-contest/reward.svg)](https://make.fun/bounty/u-donrulezz-the-absurd-clause-contest-035cc0f1?utm_source=github&utm_medium=readme&utm_campaign=u-donrulezz-the-absurd-clause-contest-035cc0f1)
 
 Entry for the make.fun bounty: https://make.fun/bounty/u-donrulezz-the-absurd-clause-contest-035cc0f1
 
